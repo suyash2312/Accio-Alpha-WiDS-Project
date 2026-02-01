@@ -1,15 +1,86 @@
-# WiDS-2025
+# WiDS 2025 – Endterm Project
 
-#### All the submissions done, like assignment,codes are in "Submissions" folder.
-#### The weekly folders contain resources for that week.
+This repository contains all the work I completed during the **Winter in Data Science (WiDS) 2025–26** program.  
+It shows what I learned each week and how I used Python and mathematics to solve problems.
 
-## Midterm Submission Report
-### Week 1: Math and Graphs with Python
+---
 
-In week 1, I used Python and NumPy to work with data types like lists, matrices, random arrays, and zero arrays. Performed simple math operations such as addition, multiplication, and finding averages. Also checked the speed difference between Python loops and NumPy operations and found that NumPy is much faster for arrays than using arrays directly.
-Along with this, I solved a probability and statistics assignment. It was a written assignment.Finally, I also plotted a line graph to show how temperature changes over time.
+## 📁 Repository Structure
 
-### Week 2: Statistics and Prediction
+- **Submissions/**  
+  Contains all final assignments, code files, and reports.
 
-In week 2, I worked on basic statistics and linear regression. Analyzed a salary model and observed that males had higher average salaries than females when GPA was high,it was concluded based on the interaction term, there were other terms as well each with their significance.
-I also worked with a car dataset to study the relation between horsepower and mileage. From the regression results, found that mileage decreases as horsepower increases, and the relationship was statistically significant.
+- **Week-wise folders/**  
+  Each folder contains resources, notebooks, and practice files for that week.
+
+---
+
+## 📘 Endterm Project Summary
+
+The goal of this project was to learn the basics of data science step by step.  
+I started with mathematics and statistics, then moved to data analysis, and finally worked on estimation algorithms.
+
+---
+
+## 🗓️ Weekly Work Summary
+
+### 🔹 Week 1: Mathematics, Probability, and Graphs
+In Week 1, I worked on basic math and statistics needed for data science.
+
+Work done:
+- Used Python and NumPy to create lists, matrices, random arrays, and zero arrays
+- Performed simple math operations like addition, multiplication, and finding averages
+- Compared Python loops with NumPy operations and saw that NumPy is faster
+- Solved a written assignment on probability and statistics
+- Plotted a line graph to show how temperature changes over time
+
+This week helped me understand how data and randomness work.
+
+---
+
+### 🔹 Week 2: Statistics and Prediction
+In Week 2, I focused on statistics and regression.
+
+Work done:
+- Studied basic statistics like mean and variance
+- Built a linear regression model for a salary dataset
+- Observed that males had higher average salaries than females when GPA was high, based on the interaction term
+- Worked on a car dataset to study the relation between horsepower and mileage
+- Found that mileage decreases as horsepower increases, and the result was statistically significant
+
+This week helped me understand how data can be used to make predictions.
+
+---
+
+### 🔹 Week 3: Estimation and Kalman Filter
+In Week 3, I learned about estimation and the Kalman Filter.
+
+Work done:
+- Learned what the Kalman Filter is and why it is used
+- Implemented prediction and update steps using Python
+- Studied how noise and uncertainty affect estimates
+- Observed how estimates improve as more data is added
+
+This week helped connect theory with real-world problems.
+
+---
+
+## 📄 Reports
+- The endterm report is written in LaTeX.
+- It explains what I learned, how I implemented the algorithms, and includes important code snippets.
+
+---
+
+## 🔗 External Links
+
+- **Google Drive (Report, Plots, Extra Files):**  
+  _[Add Google Drive link here]_
+
+---
+
+## ✅ Conclusion
+This project helped me build a strong base in data science.  
+It improved my understanding of statistics, data analysis, and estimation methods.
+
+---
+
