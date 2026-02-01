@@ -73,7 +73,7 @@ This week helped connect theory with real-world problems.
 
 ## 🔗 External Links
 
-- **Google Drive (Report, Plots, Extra Files):**  
+- **Google Drive (Report):**  
   [_[Link to Endterm Project Report]_](https://drive.google.com/file/d/12HvmfrBJnb8J_PRY2hA7-ZXwcmwTnJt2/view?usp=sharing)
 
 ---
