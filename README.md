@@ -1,6 +1,6 @@
 # WiDS 2025 – Endterm Project
 
-This repository contains all the work I completed during the **Winter in Data Science (WiDS) 2025–26** program.  
+This repository contains all the work I completed during the **Winter in Data Science (WiDS) 2025–26**.  
 It shows what I learned each week and how I used Python and mathematics to solve problems.
 
 ---
